@@ -14,3 +14,4 @@ No need to install any software, just open up index.html
 Use this template to build your own portfolio
 
 ## Screenshot:
+![Capture](https://user-images.githubusercontent.com/110389542/200209720-e68341b4-4ed1-43c7-8861-47fef26e23c9.PNG)
