@@ -1,7 +1,7 @@
 # PORTFOLIO
 This Portfolio is a small project using HTML / CSS and Bootstrap. I will be using this to show my projects!
 
-[Live Replit deployment]()
+[Live Replit deployment](https://portfolio.tbarrett03.repl.co)
 
 ## Technologies Used
 * HTML
